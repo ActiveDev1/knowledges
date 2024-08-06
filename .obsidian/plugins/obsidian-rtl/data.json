@@ -1,0 +1,11 @@
+{
+  "fileDirections": {
+    "DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md": "auto",
+    "DevOps/Intern/2. Four Key metrics in DevOps.md": "rtl"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
