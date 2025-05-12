@@ -1,9 +1,11 @@
 {
   "fileDirections": {
-    "DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md": "auto",
-    "DevOps/Intern/2. Four Key metrics in DevOps.md": "rtl"
+    "🧑‍💻 Software Engineering/DevOps/Intern/2. Four Key metrics in DevOps.md": "rtl",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md": "auto",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/5 - Monitoring.md": "rtl",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/9 - Provisioning.md": "rtl"
   },
-  "defaultDirection": "auto",
+  "defaultDirection": "ltr",
   "rememberPerFile": true,
   "setNoteTitleDirection": true,
   "setYamlDirection": false,

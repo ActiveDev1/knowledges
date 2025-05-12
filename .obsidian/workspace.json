@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "935086fa5c64269f",
+        "id": "dc629c738b8cfed6",
         "type": "tabs",
         "children": [
           {
-            "id": "362a1f6cb9ad0979",
+            "id": "94d88cc873aaf7d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Intern/2. Four Key metrics in DevOps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +65,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.500732421875
+    "width": 309.5086555480957
   },
   "right": {
     "id": "cf34032473d6adce",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Intern/2. Four Key metrics in DevOps.md",
+                "file": "DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prometheus Metrics Types"
             }
           },
           {
@@ -102,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Intern/2. Four Key metrics in DevOps.md",
+                "file": "DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prometheus Metrics Types"
             }
           },
           {
@@ -116,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,12 +136,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Intern/2. Four Key metrics in DevOps.md"
-              }
+                "file": "DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prometheus Metrics Types"
+            }
+          },
+          {
+            "id": "64fbd28dea31f65a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,42 +168,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "open-vscode:VSCode": false
     }
   },
   "active": "1a04b56edc3a226e",
   "lastOpenFiles": [
-    "DevOps/Intern/1. What is DevOps?.md",
-    "DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md",
-    "DevOps/Monitoring/Prometheus/PromQL/PromQL Cheat Sheet.md",
-    "DevOps/Monitoring/Prometheus/PromQL/Expression language data types.md",
-    "DevOps/Intern/2. Four Key metrics in DevOps.md",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Expression language data types.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/9 - Provisioning.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/8 - Demand Forecasting and Capacity Planning.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/7 - Change Management.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/6 - Emergency Response.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/5 - Monitoring.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/4 - Pursuing Maximum Change Velocity Without Violating a Service’s SLO.md",
+    "🧑‍💻 Software Engineering",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/1 - Intro.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/3 - DevOps vs SRE.md",
+    "README.md",
+    "📚 Books/🌱 Self Improvement/عادت های اتمی/ایجاد عادت‌های بهتر با ۴ گام ساده.md",
+    "📚 Books/🌱 Self Improvement/عادت های اتمی/آن را شفاف و آشکار کن.md",
+    "📚 Books/🌱 Self Improvement/عادت های اتمی",
+    "📚 Books/🌱 Self Improvement",
+    "📚 Books",
+    "🧑‍💻 Software Engineering/DevOps/Intern/Assets/deployment-frequency.png",
+    "2025-05-12.md",
     "Untitled.canvas",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/2 - The Sysadmin Approach to Service Management.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/PromQL Cheat Sheet.md",
+    "🧑‍💻 Software Engineering/DevOps/Intern/2. Four Key metrics in DevOps.md",
+    "🧑‍💻 Software Engineering/DevOps/Intern/1. What is DevOps?.md",
     "2024-08-06.md",
-    "DevOps/Intern/Assets/dora-metrics-banner.png",
+    "🧑‍💻 Software Engineering/DevOps/Intern/Assets/dora-metrics-banner.png",
     "DevOps/Intern/Assets/dora-metrics-banner.png.crdownload",
-    "DevOps/Intern/Assets/change-failure-rate.webp",
-    "DevOps/Intern/Assets/mean-time-to-restore.webp",
-    "DevOps/Monitoring",
+    "🧑‍💻 Software Engineering/DevOps/Intern/Assets/change-failure-rate.webp",
+    "🧑‍💻 Software Engineering/DevOps/Intern/Assets/mean-time-to-restore.webp",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring",
     "Untitled.md",
     "Untitled 1.md",
-    "DevOps/Intern/Assets/4-key-metrics-monitoring.gif",
-    "DevOps/Intern/Assets/4-key-metrics-monitoring.gif.crdownload",
-    "DevOps/Intern/Assets",
+    "🧑‍💻 Software Engineering/DevOps/Intern/Assets/4-key-metrics-monitoring.gif",
     "DevOps/Intern/Untitled.canvas",
-    "DevOps/Intern",
-    "DevOps/Monitoring/Prometheus/PromQL/Assets/Prometheus-Metrics-Types.png",
-    "DevOps/Monitoring/Prometheus/PromQL/Assets/Historgram-Response-Time.webp",
-    "DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge-Histogram.png",
-    "DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge.png",
-    "Obsidian.tar.xz",
-    "DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-Counter.png",
-    "DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-In-Dashboard.png",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Prometheus-Metrics-Types.png",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Historgram-Response-Time.webp",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge-Histogram.png",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge.png",
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-Counter.png",
     "Tools/Prometheus/Untitled.md",
-    "DevOps/Monitoring/Prometheus/PromQL",
-    "DevOps/Monitoring/Prometheus/PromQL/Assets",
-    "DevOps/Monitoring/Prometheus",
-    "Tools",
     "Welcome.md",
     "2024-05-08.md"
   ]
