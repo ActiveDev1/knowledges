@@ -1,2 +1,2 @@
 # knowledges
-Full of Every Thinks
+🚀 Full of Every Things
