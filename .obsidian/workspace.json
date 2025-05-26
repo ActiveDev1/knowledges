@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/Manager Hardware.md",
+                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/Embracing Risk/Managing Risk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manager Hardware"
+              "title": "Managing Risk"
             }
           }
         ]
@@ -178,8 +178,13 @@
   },
   "active": "2650e8f06788773e",
   "lastOpenFiles": [
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/Hardware.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/Principles.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/Embracing Risk/Embracing Risk.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/Embracing Risk/Managing Risk.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/Embracing Risk",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/Manager Hardware.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/Hardware.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/9 - Provisioning.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2",
     "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md",
@@ -205,13 +210,11 @@
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/2 - The Sysadmin Approach to Service Management.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE",
     "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/PromQL Cheat Sheet.md",
     "🧑‍💻 Software Engineering/DevOps/Intern/2. Four Key metrics in DevOps.md",
     "🧑‍💻 Software Engineering/DevOps/Intern/1. What is DevOps?.md",
     "2024-08-06.md",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/dora-metrics-banner.png",
-    "DevOps/Intern/Assets/dora-metrics-banner.png.crdownload",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/change-failure-rate.webp",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/mean-time-to-restore.webp",
     "Untitled.md",
@@ -222,9 +225,6 @@
     "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Historgram-Response-Time.webp",
     "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge-Histogram.png",
     "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge.png",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-Counter.png",
-    "Tools/Prometheus/Untitled.md",
-    "Welcome.md",
-    "2024-05-08.md"
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-Counter.png"
   ]
 }
