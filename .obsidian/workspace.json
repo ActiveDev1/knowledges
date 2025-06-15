@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5086555480957
+    "width": 399.50694274902344
   },
   "right": {
     "id": "cf34032473d6adce",
@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -178,26 +178,33 @@
   },
   "active": "24b5713db6753c5d",
   "lastOpenFiles": [
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/1 - Embracing Risk.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/3 - Principles.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/2 - Manage Hardware.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/1 - Hardware.md",
+    "Pasted image 20250615225954.png",
+    "datacenter-campus.md",
+    "README.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/5 - Monitoring.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/3 - Measuring Service Risk.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/3. 1 - Identifying the Risk Tolerance of Consumer Services.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/2 - Managing Risk.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/1 - Embracing Risk.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/1 - Hardware.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/2 - Manager Hardware.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/3 - Principles.md",
-    "README.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/3 - Measuring Service Risk",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets/datacenter-campus.jpg",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets/time-based-availability.png",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/9 - Provisioning.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Datacenter-Campus.jpg",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Datacenter-Campus.jpg.crdownload",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/8 - Demand Forecasting and Capacity Planning.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Summery.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/2 - Managing Risk.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/10 - Efficiency and Performance.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/9 - Provisioning.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/7 - Change Management.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/6 - Emergency Response.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/5 - Monitoring.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/4 - Pursuing Maximum Change Velocity Without Violating a Service’s SLO.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/3 - DevOps vs SRE.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/2 - The Sysadmin Approach to Service Management.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/3 - DevOps vs SRE.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/1 - Intro.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/3 - Measuring Service Risk",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2",
@@ -209,22 +216,14 @@
     "📚 Books/🌱 Self Improvement/عادت های اتمی/آن را شفاف و آشکار کن.md",
     "📚 Books/🌱 Self Improvement/عادت های اتمی",
     "📚 Books/🌱 Self Improvement",
-    "📚 Books",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/deployment-frequency.png",
     "2025-05-12.md",
     "Untitled.canvas",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/PromQL Cheat Sheet.md",
-    "🧑‍💻 Software Engineering/DevOps/Intern/2. Four Key metrics in DevOps.md",
-    "🧑‍💻 Software Engineering/DevOps/Intern/1. What is DevOps?.md",
-    "2024-08-06.md",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/dora-metrics-banner.png",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/change-failure-rate.webp",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/mean-time-to-restore.webp",
     "🧑‍💻 Software Engineering/DevOps/Intern/Assets/4-key-metrics-monitoring.gif",
     "DevOps/Intern/Untitled.canvas",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Prometheus-Metrics-Types.png",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Historgram-Response-Time.webp",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge-Histogram.png",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Metrics-Explorer-gauge.png"
+    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Assets/Prometheus-Metrics-Types.png"
   ]
 }
