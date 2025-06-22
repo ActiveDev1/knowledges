@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/4 - Motivation for Error Budgets.md",
+                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 4/3 - Indicators in Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Motivation for Error Budgets"
+              "title": "3 - Indicators in Practice"
             }
           }
         ]
@@ -178,8 +178,12 @@
   },
   "active": "24b5713db6753c5d",
   "lastOpenFiles": [
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 4/asda.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets/figure.4-1.png",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 4/3 - Indicators in Practice.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 4/2 - Service Level Terminology.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 4/1 - Service Level Objectives.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/4 - Motivation for Error Budgets.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 4/asda.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 4",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/Untitled",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/3. 2 - Identifying the Risk Tolerance of Infrastructure Services.md",
@@ -215,15 +219,10 @@
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/1 - Hardware.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Summery.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 2/2 - Manager Hardware.md",
-    "README.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk/3 - Measuring Service Risk",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/1 - Embracing Risk",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Prometheus Metrics Types.md",
-    "🧑‍💻 Software Engineering/DevOps/Monitoring/Prometheus/PromQL/Expression language data types.md",
-    "📚 Books/🌱 Self Improvement/عادت های اتمی/ایجاد عادت‌های بهتر با ۴ گام ساده.md",
-    "🧑‍💻 Software Engineering/DevOps/Intern/Assets/deployment-frequency.png",
     "Untitled.canvas",
     "DevOps/Intern/Untitled.canvas"
   ]
