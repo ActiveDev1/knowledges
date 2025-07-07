@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3. 1 - Identifying the Risk Tolerance of Consumer Services.md",
+                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3. 2 - Identifying the Risk Tolerance of Infrastructure Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 1 - Identifying the Risk Tolerance of Consumer Services"
+              "title": "3. 2 - Identifying the Risk Tolerance of Infrastructure Services"
             }
           }
         ],
@@ -193,18 +193,19 @@
   },
   "active": "2f8e62865e7438f5",
   "lastOpenFiles": [
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 2/1 - Service Level Objectives.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3. 2 - Identifying the Risk Tolerance of Infrastructure Services.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3. 1 - Identifying the Risk Tolerance of Consumer Services.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3 - Measuring Service Risk.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/2 - Managing Risk.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/4 - Pursuing Maximum Change Velocity Without Violating a Service’s SLO.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/5 - Monitoring.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/6 - Emergency Response.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/7 - Change Management.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/10 - Efficiency and Performance.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/8 - Demand Forecasting and Capacity Planning.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/9 - Provisioning.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/10 - Efficiency and Performance.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/1 - Embracing Risk.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 2/1 - Service Level Objectives.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/2 - Managing Risk.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 2/3 - Principles.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 2/2 - Manage Hardware.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 2/1 - Hardware.md",
@@ -216,7 +217,6 @@
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/2 - Toil Defined.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/1 - Eliminating Toil.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/2 - The Sysadmin Approach to Service Management.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/8 - Demand Forecasting and Capacity Planning.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 2/5 - Agreements in Practice.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 3/Untitled",
