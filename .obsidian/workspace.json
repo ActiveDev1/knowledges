@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/10 - Tying These Principles Together.md",
+                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/4 - The Use Cases for Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Tying These Principles Together"
+              "title": "4 - The Use Cases for Automation"
             }
           }
         ]
@@ -178,8 +178,17 @@
   },
   "active": "2f8e62865e7438f5",
   "lastOpenFiles": [
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/9 - As Simple as Possible, No Simpler.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/3 - The Value for Google SRE.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/4 - The Use Cases for Automation.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/2 - The Value of Automation.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/1 - The Evolution of Automation at Google.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/14 - The Long Run.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/13 - Gmail - Predictable, Scriptable Responses from Humans.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/12 - Bigtable SRE - A Tale of Over-Alerting.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/11 - Monitoring for the Long Term.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/10 - Tying These Principles Together.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/9 - As Simple as Possible, No Simpler.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/8 - Choosing an Appropriate Resolution for Measurements.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/7 - Worrying About Your Tail (or, Instrumentation and Performance).md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/6 - The Four Golden Signals.md",
@@ -198,14 +207,6 @@
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/5 - Is Toil Always Bad?.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/4 - What Qualifies as Engineering?.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/3 - Why Less Toil Is Better?.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/2 - Toil Defined.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 2/5 - Agreements in Practice.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 2/2 - Service Level Terminology.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 2/1 - Service Level Objectives.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/4 - Pursuing Maximum Change Velocity Without Violating a Service’s SLO.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/5 - Monitoring.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction/Chapter 1/6 - Emergency Response.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3",
@@ -216,7 +217,6 @@
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/1 - Intro.png",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/1 - Intro_tmp.html",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/1 - Intro.html",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Chapter 1/1 - Intro.pdf",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets/time-based-availability.png",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets/time-based-availability.png",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Assets/aggregate-availability.jpg",
