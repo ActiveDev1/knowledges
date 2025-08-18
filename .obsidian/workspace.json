@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/4 - The Use Cases for Automation.md",
+                "file": "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/9 - Detecting Inconsistencies with Prodtest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - The Use Cases for Automation"
+              "title": "9 - Detecting Inconsistencies with Prodtest"
             }
           }
         ]
@@ -178,8 +178,13 @@
   },
   "active": "2f8e62865e7438f5",
   "lastOpenFiles": [
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/3 - The Value for Google SRE.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/6 - A Hierarchy of Automation Classes.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/9 - Detecting Inconsistencies with Prodtest.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/7 - Automate Yourself Out of a Job -  Automate ALL the Things.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/8 - Soothing the Pain Applying Automation to Cluster Turn-ups.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/5 - Google SRE’s Use Cases for Automation.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/4 - The Use Cases for Automation.md",
+    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/3 - The Value for Google SRE.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/2 - The Value of Automation.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 5/1 - The Evolution of Automation at Google.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/14 - The Long Run.md",
@@ -200,13 +205,8 @@
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/4 - Motivation for Error Budgets.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3. 2 - Identifying the Risk Tolerance of Infrastructure Services.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3. 1 - Identifying the Risk Tolerance of Consumer Services.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/3 - Measuring Service Risk.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 1/2 - Managing Risk.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4/2 - Why Monitor?.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 6/Untitled",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 4",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/5 - Is Toil Always Bad?.md",
-    "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3/4 - What Qualifies as Engineering?.md",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 1 - Introduction",
     "🧑‍💻 Software Engineering/👩‍🔧 SRE/📚 Books/Site Reliability Engineering Google/Part 2 - Principles/Chapter 3",
